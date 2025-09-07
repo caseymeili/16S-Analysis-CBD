@@ -7,12 +7,15 @@ Raw 16S data processed using mothur v.1.48.3, downloaded from https://mothur.org
 - SILVA database (release 138.2) obtained from: https://mothur.org/wiki/silva_reference_files/
 - PDS reference files (version 19) obtained from: https://mothur.org/wiki/rdp_reference_files/
 
+
 ### Beta Diversity Analysis
 Shared file from mothur was converted into a Phyloseq object (using the "make-OTU-table" code). Beta diversity and differential taxa analysis were conducted with R v and RStudio. Primary packages include Phyloseq, vegan, and ggplot2. All packages are listed in the corresponding R scripts.
 
 
+
 ### Questions 
 Questions can be directed to Casey Meili (casey.meili@pharm.utah.edu)
+
 
 
 **References**
