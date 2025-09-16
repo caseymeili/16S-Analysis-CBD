@@ -9,7 +9,7 @@ Raw 16S data processed using mothur v.1.48.3, downloaded from https://mothur.org
 
 
 ### Beta Diversity Analysis
-Shared file from mothur was converted into a Phyloseq object (using the "make-OTU-table" code). Beta diversity and differential taxa analysis were conducted with R v and RStudio. Primary packages include Phyloseq, vegan, and ggplot2. All packages are listed in the corresponding R scripts.
+Shared file from mothur was converted into a Phyloseq object (using the "make phyloseq.R" script). Beta diversity and differential taxa analysis were conducted with R v and RStudio. Primary packages include Phyloseq, vegan, and ggplot2. All packages are listed in the corresponding R scripts.
 
 
 
