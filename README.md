@@ -1,4 +1,4 @@
-# 16S V3-V4 Analysis (CBD)
+# 16S Analysis (CBD)
 
 ### Raw Data Processing and Alpha Diversity
 Raw 16S data processed using mothur v.1.48.3. Pipeline adapted from mothur MiSeq SOP (accessed August 2025), https://mothur.org/wiki/miseq_sop/. Code from recent analysis of the V3-V4 region (titled cbd-pipeline.sh) is included and can be easily modified for other regions and experiments. 
